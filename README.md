@@ -1,3 +1,8 @@
+# ToDoList - Smart Task Manager ✅📝
+
+## 📌 Project Description
+ToDoList is a simple and efficient task management application designed to help users organize their daily tasks, set priorities, and stay productive. Whether it's managing work, school assignments, or personal goals, this tool ensures that nothing is forgotten. With an intuitive interface, users can easily add, edit, and track their tasks.
+
 ## 🔥 Key Features
 
 ✅ Add & Delete Tasks – Quickly create and remove tasks as needed.
